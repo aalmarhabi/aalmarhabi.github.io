@@ -1635,8 +1635,8 @@ input, select, textarea {
 		.image.fit {
 			display: block;
 			width: 100%;
+            transform: rotate(270deg)
 		}
-
 		.image.featured {
 			display: block;
 			width: 100%;
@@ -1981,7 +1981,7 @@ input, select, textarea {
 		}
 
 			.icon.featured:before {
-				font-size: 6em;
+				font-size: 7em;
 			}
 
 /* Wrappers */
@@ -2111,13 +2111,13 @@ input, select, textarea {
 
 		#top .image {
 			border-radius: 100%;
-			width: 20em;
-			height: 20em;
+			width: 50em;
+			height: 50em;
 			margin: 0;
 		}
 
 			#top .image img {
-				border-radius: 100%;
+				border-radius: 40%;
 			}
 
 		#top h1 {
