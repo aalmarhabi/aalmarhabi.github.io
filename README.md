@@ -1,3 +1,3 @@
 # this is just my personal website using GitHub pages
-  - aalmarhabi.github.io
+  - [Link to the website](https://aalmarhabi.github.io)
 
