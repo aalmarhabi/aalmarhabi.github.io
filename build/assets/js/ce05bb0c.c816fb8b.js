@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaalmarhabi=self.webpackChunkaalmarhabi||[]).push([[683],{3774:a=>{a.exports=JSON.parse('{"label":"greetings","permalink":"/blog/tags/greetings","allTagsPath":"/blog/tags","count":1}')}}]);
