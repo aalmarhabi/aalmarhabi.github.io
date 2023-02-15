@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaalmarhabi=self.webpackChunkaalmarhabi||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Greetings, Frist Post!","permalink":"/blog/greetings"}]}')}}]);
