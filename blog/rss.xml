@@ -4,10 +4,20 @@
         <title>Hello, there! Blog</title>
         <link>https://aalmarhabi.github.io/blog</link>
         <description>Hello, there! Blog</description>
-        <lastBuildDate>Mon, 28 Feb 2022 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Trip To Disney World]]></title>
+            <link>https://aalmarhabi.github.io/blog/personal</link>
+            <guid>https://aalmarhabi.github.io/blog/personal</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[Sharing a personal post. On March 6, I was finally lucky to have a vacation at Disney World in Orlando after 6+ years of graduate school in the United States. I finally gathered a good amount of cash for two days at Disney World. I choose to go to two theme parks: magic kingdom and EPCOT (Experimental Prototype Community of Tomorrow).]]></description>
+            <content:encoded><![CDATA[<p>Sharing a personal post. On March 6, I was finally lucky to have a vacation at Disney World in Orlando after 6+ years of graduate school in the United States. I finally gathered a good amount of cash for two days at Disney World. I choose to go to two theme parks: magic kingdom and EPCOT (Experimental Prototype Community of Tomorrow). </p><h1>Magic Kingdom</h1><p>Even though I'm not a fan of Disney princesses, going to the magic kingdom and seeing Cinderella castle was a unique breathtaking experience. I enjoyed all the ride experiences there, and for my bad luck, I did not try the Pirate of the Carbine ride. The firework performance for 50 years celebration was unbelievable at the end of the day. </p><p><img loading="lazy" alt="Magic Kingdome before firework show" src="/assets/images/disney_magic_kingdom_nigth-e0212f7d5dc4dd724c657b153879766a.jpeg" width="2748" height="2680" class="img_ev3q">
+<em>Magic Kingdome before firework show</em></p><h1>EPCOT</h1><p>The rides at EPCOT were okay, but the most thriller one was the guardian of the galaxy ride. At that time, the line was long but worth the wait. The remarkable thing about EPCOT the had several regions that represent different countries and their food. France, Japan, Canada, Germany, Morocco, and more were there. </p><p>I plan to go back if I have another chance and stop at Universal studio, too, there. Taking a break from time to time is great, so you can come back with more energy to work.</p>]]></content:encoded>
+            <category>personal</category>
+        </item>
         <item>
             <title><![CDATA[Emacs, Taking Over Your Life!]]></title>
             <link>https://aalmarhabi.github.io/blog/emacs</link>
