@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkaalmarhabi=self.webpackChunkaalmarhabi||[]).push([[198],{7226:a=>{a.exports=JSON.parse('{"label":"personal","permalink":"/blog/tags/personal","allTagsPath":"/blog/tags","count":1}')}}]);

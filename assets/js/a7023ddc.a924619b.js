@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkaalmarhabi=self.webpackChunkaalmarhabi||[]).push([[1713],{3457:a=>{a.exports=JSON.parse('[{"label":"chatgpt","permalink":"/blog/tags/chatgpt","count":1},{"label":"personal","permalink":"/blog/tags/personal","count":1},{"label":"emacs","permalink":"/blog/tags/emacs","count":1},{"label":"greetings","permalink":"/blog/tags/greetings","count":1}]')}}]);
