@@ -14,3 +14,6 @@ I faced some issues deploying the site from copying the build folder generated b
 1- Make changes locally while running ```$yarn start```
 2- Build your final website ```$yarn build```
 3- deploy ``` $GIT_USER=Github_UserName DEPLOYMENT_BRANCH=Github_Branch yarn deploy```
+
+# Last Update
+ - 03-27-2023
