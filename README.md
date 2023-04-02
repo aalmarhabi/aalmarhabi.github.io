@@ -16,4 +16,5 @@ I faced some issues deploying the site from copying the build folder generated b
 3- deploy ``` $GIT_USER=Github_UserName DEPLOYMENT_BRANCH=Github_Branch yarn deploy```
 
 # Last Update
+ - 04-02-2034 -> add new blog post about rust
  - 03-27-2023
